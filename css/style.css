@@ -1,0 +1,55 @@
+html{
+    font-family: sans-serif,fantasy;
+    margin-left: -8px;
+    margin-top: -10px;
+}
+.header{
+    position: fixed;
+    background-color: #000;
+    color: #FFF;
+    height: 100px;
+    text-align: center;
+    width: 100%;
+}
+.navbar ul{
+    list-style:none;
+    margin:0;
+    padding:0;
+    margin-left: 380px;
+}
+
+.navbar li{
+    width:100px;
+    height:50px;
+    float:left;
+    color:#191919;
+    text-align:center;
+    overflow:hidden;
+}
+
+.navbar a{
+    color:#FFF;
+    text-decoration:none;
+}
+
+.navbar p{
+    padding:0px 2px;
+}
+
+.navbar subtext{
+    padding-top:13px;
+}
+
+/*Menu Color Classes*/
+.black{background:#000;}
+
+.logo{
+    height: 30%;
+}
+.tit{
+    position: relative;
+    top: 12px;
+}
+.container{
+    padding-top: 100px;
+}
