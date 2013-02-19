@@ -33,11 +33,12 @@ html{
 }
 
 .navbar p{
-    padding:0px 2px;
+    padding:0px 12px;
 }
 
 .navbar subtext{
     padding-top:13px;
+    margin-top: 10px;
 }
 
 /*Menu Color Classes*/
