@@ -54,3 +54,13 @@ html{
 .container{
     padding-top: 100px;
 }
+footer{
+    background-color: #000;
+    color: #FFF;
+    height: 50px;
+    text-align: center;
+    width: 100%;
+}
+.kaki{
+    padding-top: 10px;
+}
