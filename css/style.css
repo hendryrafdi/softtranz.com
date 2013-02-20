@@ -10,7 +10,8 @@ html{
     height: 100px;
     text-align: center;
     width: 100%;
-	z-index: 99;
+	z-index:99;
+	font-size:18px;
 }
 .navbar ul{
     list-style:none;
@@ -39,7 +40,7 @@ html{
 
 .navbar subtext{
     padding-top:13px;
-    margin-top: 10px;
+	margin-top:10px;
 }
 
 /*Menu Color Classes*/
@@ -53,122 +54,8 @@ html{
     top: 12px;
 }
 .container{
-    padding-top: 100px;
-}
-footer{
-    background-color: #000;
-    color: #FFF;
-    height: 50px;
-    text-align: center;
-    width: 100%;
-}
-.kaki{
-    padding-top: 10px;
-}
-.product { 
-	background: url(../images/product-bg.png) no-repeat 0 0; width: 202px; height: 252px; padding: 14px 14px 0 16px; display: block; font-size: 14px; line-height: 18px; color: #2f3032; font-family: georgia, serif; 
-}
-.product img { 
-	padding: 0 0 10px 0; position: relative; margin-left: -2px; 
-}
-.product:hover,
-.product.hover { 
-	background: url(../images/product-hover.png) no-repeat 0 0; text-decoration: none; 
-}	
-.thumb{
-	width: 170px;
-	height: 160px;
-	left: 17px;
-}
-.font-nama{
-	font-family: rockwell;
-	size: 2;
-	color: black;
-	margin-top: -10px;
-	margin-left: 20px;
-}
-.font-desc{
-	font-family: rockwell;
-	size: 2;
-	color: black;
-	margin-top: -10px;
-	margin-left: -5px;
-}
-.header-member{
-	background-repeat:repeat-y;
-	height: 70px;
-	width: 1330px;
-	margin-left: 20px;
-	margin-top: 10px;
-}
-.judul{
-	font-size: 30px;
-	font-family: Rockwell;
-	Color: black;
-	position: absolute;
-	left: 420px;
-	top: 125px;
-}
-.row { 
-	padding: 20px 0 23px 0; background: url(images/border.png) repeat-x 0 bottom; width: auto; overflow: hidden; 
-}
-.row ul { 
-	width: 1317px; display: block; position: relative; 
-}
-.row ul li { 
-	float: left; display: inline; width: 232px; height: 266px; padding: 0 19px 0 0; .product { 
-	background: url(../images/product-bg.png) no-repeat 0 0; width: 202px; height: 252px; padding: 14px 14px 0 16px; display: block; font-size: 14px; line-height: 18px; color: #2f3032; font-family: georgia, serif; 
-}
-.product img { 
-	padding: 0 0 10px 0; position: relative; margin-left: -2px; 
-}
-.product:hover,
-.product.hover { 
-	background: url(../images/product-hover.png) no-repeat 0 0; text-decoration: none; 
-}	
-.thumb{
-	width: 170px;
-	height: 160px;
-	left: 17px;
-}
-.font-nama{
-	font-family: rockwell;
-	size: 2;
-	color: black;
-	margin-top: -10px;
-	margin-left: 20px;
-}
-.font-desc{
-	font-family: rockwell;
-	size: 2;
-	color: black;
-	margin-top: -10px;
-	margin-left: -5px;
-}
-.header-member{
-	background-repeat:repeat-y;
-	height: 70px;
-	width: 1330px;
-	margin-left: 20px;
-	margin-top: 10px;
-}
-.judul{
-	font-size: 30px;
-	font-family: Rockwell;
-	Color: black;
-	position: absolute;
-	left: 420px;
-	top: 125px;
-}
-.row { 
-	padding: 20px 0 23px 0; background: url(images/border.png) repeat-x 0 bottom; width: auto; overflow: hidden; 
-}
-.row ul { 
-	width: 1317px; display: block; position: relative; 
-}
-.row ul li { 
-	float: left; display: inline; width: 232px; height: 266px; padding: 0 19px 0 0; 
-}
+    padding-top: 100px;	
+	}
 #login{
 	width: 340px;
 	height: 280px;
