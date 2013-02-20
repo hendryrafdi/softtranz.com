@@ -4,7 +4,8 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Software Transformator</title>
         <link rel="stylesheet" type="css/text" href="css/style.css"/>
-        <script src="js/jquery-1.3.js" type="text/javascript"></script>  
+		<link rel="stylesheet" type="css/text" href="savecss.css"/>
+        <script src="http://jqueryjs.googlecode.com/files/jquery-1.3.js" type="text/javascript"></script>  
         <script src="js/jquery.easing.1.3.js" type="text/javascript"></script>  
         <script src="js/animated-menu.js" type="text/javascript"></script>
     </head>
@@ -18,7 +19,6 @@
                 <ul>
                     <li class="black">
                         <p><a href="#">Home</a></p>
-                        <p class="subtext"><img src="images/home.png"/></p>
                     </li>
                     <li class="black">
                         <p><a href="#">Member</a></p>
@@ -38,16 +38,49 @@
                     </li>
                     <li class="black">
                         <p><a href="#">About</a></p>
-                        <p class="subtext"><a href="#">RPL</a></p>
-                        <p class="subtext"><a href="#">Programmer</a></p>
+                        
                     </li>
                 </ul>
             </div>
         </div>
         <div class="container">
-            <div class="banner">
-                <img src="images/JKT48background2.jpg" style="width: 1365px; height: 485px;"/>
-            </div>
-        </div>
+			<div class="banner">
+                <img src="images/jkt.jpg" style="margin-left:10px; width:1330px; height:565px; position:center;"/>
+        		</div>
+				<div class="sidebar" style="background-image:url('images/bg.jpg'); height:900px; width:375px">
+				<div id="login">
+			<form>
+		
+		<label for="name">Username:</label>
+		
+		<input type="name">
+		
+		<label for="username">Password:</label>
+		
+		<p><a href="#">Forgot your password?</a>
+		
+		<input type="password">
+		
+		<div id="lower">
+		
+		<input type="checkbox"><label class="check" for="checkbox">Keep me logged in</label>
+		
+		<input type="submit" value="Login">
+		
+		</div>
+		</form>
+		</div>
+		<div class="line-separator"></div>
+			</div>
+		<div class="artikel">
+		<h1>Latest Artikel</h1>
+		<div class="post-artikel">
+			<h1>Artikel 1</h1>
+			<h1>Artikel 1</h1>
+			<h1>Artikel 1</h1>
+			<h1>Artikel 1</h1>
+		</div>
+		</div>
+		</div>
     </body>
 </html>
