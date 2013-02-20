@@ -14,22 +14,22 @@
                 <hr>
                 <ul>
                     <li class="black">
-                        <p><a href="#">Home</a></p>
+                        <p><a href="index.php">Home</a></p>
                     </li>
                     <li class="black">
-                        <p><a href="#">Member</a></p>
+                        <p><a href="member.php">Member</a></p>
                         <p class="subtext">Get in touch</p>
                     </li>
                     <li class="black">
-                        <p><a href="#">Schedule</a></p>
+                        <p><a href="schedule.php">Schedule</a></p>
                         <p class="subtext">Send us your stuff!</p>
                     </li>
                     <li class="black">
-                        <p><a href="#">Sharing</a></p>
+                        <p><a href="sharing.php">Sharing</a></p>
                         <p class="subtext">Legal things</p>
                     </li>
                     <li class="black">
-                        <p><a href="#">Chating</a></p>
+                        <p><a href="chatting.php">Chating</a></p>
                         <p class="subtext">Legal things</p>
                     </li>
                     <li class="black">
@@ -54,11 +54,11 @@
                         ?>
                         <li style="height: 300px; list-style: none;">
                             <a class="product" href="#">
-                                <img class="thumb" src="<?php echo $tampil[foto] ?>" alt="Product Image 1" />
+                                <img class="thumb" src="<?php echo $tampil[foto] ?>" alt="<?php echo $tampil[nama_member] ?>" />
                                 <table border="0" style="margin-top: -10px;">
                                     <tr>
                                         <td>
-                                            <span>-</span>
+                                            <span-</span>
                                         </td>
                                         <td class="font-nama">
                                             <span><?php echo $tampil[nama_member] ?></span>
@@ -66,7 +66,7 @@
                                     </tr>
                                     <tr>
                                         <td>
-                                            <span>-</span>
+                                            <span></span>
                                         </td>
                                         <td class="font-nama">
                                             <span><?php echo $tampil[quote] ?></span>

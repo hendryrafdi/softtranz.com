@@ -32,48 +32,79 @@
                     editable: true,
                     events: [
                         {
-                            title: 'All Day Event',
-                            start: new Date(y, m, 1)
+                            title: 'Frets Eric Birthday',
+                            start: new Date(y, 11, 27)
                         },
                         {
-                            title: 'Long Event',
-                            start: new Date(y, m, d-5),
-                            end: new Date(y, m, d-2)
-                        },
-                        {
-                            id: 999,
-                            title: 'Repeating Event',
-                            start: new Date(y, m, d-3, 16, 0),
-                            allDay: false
+                            title: 'Achmad Fauzi Birthday',
+                            start: new Date(y, 11, 31)
                         },
                         {
                             id: 999,
-                            title: 'Repeating Event',
-                            start: new Date(y, m, d+4, 16, 0),
-                            allDay: false
+                            title: 'Amir Birthday',
+                            start: new Date(y, 6, 14),
+                            allDay: true
                         },
                         {
-                            title: 'Meeting',
-                            start: new Date(y, m, d, 10, 30),
-                            allDay: false
+                            id: 999,
+                            title: 'Anggita Birthday',
+                            start: new Date(y, 11, 2),
+                            allDay: true
                         },
                         {
-                            title: 'Lunch',
-                            start: new Date(y, m, d, 12, 0),
-                            end: new Date(y, m, d, 14, 0),
-                            allDay: false
+                            title: 'Arista Birthday',
+                            start: new Date(y, m, 11),
+                            allDay: true
                         },
                         {
-                            title: 'Birthday Party',
-                            start: new Date(y, m, d+1, 19, 0),
-                            end: new Date(y, m, d+1, 22, 30),
-                            allDay: false
+                            title: 'Hendry Birthday',
+                            start: new Date(y, 12, 25),
+                            allDay: true
                         },
                         {
-                            title: 'Click for Google',
-                            start: new Date(y, m, 28),
-                            end: new Date(y, m, 29),
-                            url: 'http://google.com/'
+                            title: 'Ibnu Birthday',
+                            start: new Date(y, 8, 21),
+                            allDay: true
+                        },
+                        {
+                            title: 'Karezky Birthday',
+                            start: new Date(y, m, 19),
+                            allDay: true
+                        },
+                        {
+                            title: 'Malika Birthday',
+                            start: new Date(y, 7, 26),
+                            allDay: true
+                        },
+                        {
+                            title: 'Niko Birthday',
+                            start: new Date(y, 6, 20),
+                            allDay: true
+                        },
+                        {
+                            title: 'Nurul Birthday',
+                            start: new Date(y, 11, 31),
+                            allDay: true
+                        },
+                        {
+                            title: 'Qidut Birthday',
+                            start: new Date(y, 9, 22),
+                            allDay: true
+                        },
+                        {
+                            title: 'Rival Birthday',
+                            start: new Date(y, 6, 2),
+                            allDay: true
+                        },
+                        {
+                            title: 'Septi Birthday',
+                            start: new Date(y, 8, 25),
+                            allDay: true
+                        },
+                        {
+                            title: 'Yudhis Birthday',
+                            start: new Date(y, 7, 4),
+                            allDay: true
                         }
                     ]
                 });
