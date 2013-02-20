@@ -123,28 +123,21 @@
                 <ul>
                     <li class="black">
                         <p><a href="index.php">Home</a></p>
-                        <p class="subtext"><img src="images/home.png"/></p>
                     </li>
                     <li class="black">
                         <p><a href="member.php">Member</a></p>
-                        <p class="subtext"><img src="images/member.png"/></p>
                     </li>
                     <li class="black">
                         <p><a href="schedule.php">Schedule</a></p>
-                        <p class="subtext"><img src="images/schedule.png"/></p>
                     </li>
                     <li class="black">
                         <p><a href="#">Sharing</a></p>
-                        <p class="subtext"><img src="images/sharing.png"/></p>
                     </li>
                     <li class="black">
-                        <p><a href="#">Chating</a></p>
-                        <p class="subtext"><img src="images/chatting.png"/></p>
+                        <p><a href="chatting.php">Chating</a></p>
                     </li>
                     <li class="black">
                         <p><a href="#">About</a></p>
-                        <p class="subtext"><a href="#">RPL</a></p>
-                        <p class="subtext"><a href="#">Programmer</a></p>
                     </li>
                 </ul>
             </div>
@@ -153,9 +146,7 @@
             <div id='calendar'></div>
         </div>
     </body>
-    <footer>
-        <div class="kaki">
-            Copyright &copy; <a href="index.php">Software Transformator</a>. All right reserved.
-        </div>
-    </footer>
+    <?php 
+    include 'footer.php';
+    ?>
 </html>
