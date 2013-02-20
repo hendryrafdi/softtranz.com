@@ -380,3 +380,56 @@ font-family:Courier New;
 	margin-top: -255px;
 	position: absolute;
 }
+.footer{
+	border-top:10px solid #d93e39;
+	background:#282828;
+	width:1340px;
+	float:left;
+	margin-top:100px;
+	position:relative;
+}
+.kanan{
+float:right;
+margin-right:290px;
+margin-top:-70px;
+width:200px;
+}
+.kiri{
+width:200px;
+margin-left:100px;
+}
+.tulisankiri{
+float:left;
+width:500px;
+line-height:30px;
+color:#fff;
+}
+.tulisankanan{
+margin-right:-269px;
+float:right;
+width:470px;
+line-height:30px;
+color:#fff;
+}
+.footer_bg {
+	border-top:10px solid #d93e39;
+	background:#B22222;
+	opacity:1;
+	margin-top:60px;
+	font-family:Junge;
+}
+
+.contact-us .left { float:left; width:636px; }
+.contact-us .right { float:right; width:295px; }
+.contact-us h4 { margin-bottom:6px; }
+.contact-us .project-form, .contact-us .contact-form { border-top:1px dotted #b7b7b7; padding-top:46px; font-size:14px; color:#565656; line-height:20px; }
+.contact-us .contact-form { padding-top:36px; }
+.contact-us .project-form .lefts { float:left; width:310px;}
+.contact-us .project-form .rights { float:right; width:310px; }
+.contact-us .project-form  .response { color:#8f8f8f; font-size:11px; font-family:Arial,Helvetica,sans-serif; padding-top:12px; width:310px; }
+.contact-us .project-form .response span { color:#df1a2f; }
+.contact-us .project-form  .response.loading { width:35px; height:35px; background:url('../img/loading.gif') center no-repeat; float:left; margin-top:-8px; }
+.project-form div { margin-bottom:10px; margin-left:-50px;}
+.project-form input[type="text"], .project-form textarea { padding:12px 8px; color:#8f8f8f; border:1px solid #e2e2e2; border-bottom:1px solid #eeeeee; border-radius:4px; font-size:13px; font-weight:bold; font-family:Arial,Helvetica,sans-serif; }
+.project-form input[type="text"] { width:290px; font-family:'Whitney-SemiboldSC',Arial,sans-serif; }
+.project-form textarea { resize:none; height:185px; width:250px; font-family:'Whitney-SemiboldSC',Arial,sans-serif; margin-top:-222px; position:absolute;}

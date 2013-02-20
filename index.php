@@ -47,7 +47,7 @@
 			<div class="banner">
                 <img src="images/jkt.jpg" style="margin-left:10px; width:1330px; height:565px; position:center;"/>
         		</div>
-				<div class="sidebar" style="background-image:url('images/bg.jpg'); height:900px; width:375px">
+				<div class="sidebar" style="background:transparent; height:900px; width:375px">
 				<div id="login">
 			<form>
 		
@@ -72,15 +72,10 @@
 		</div>
 		<div class="line-separator"></div>
 			</div>
-		<div class="artikel">
-		<h1>Latest Artikel</h1>
-		<div class="post-artikel">
-			<h1>Artikel 1</h1>
-			<h1>Artikel 1</h1>
-			<h1>Artikel 1</h1>
-			<h1>Artikel 1</h1>
+		
 		</div>
-		</div>
-		</div>
+	<?php 
+	include 'footer.php';
+	?>	
     </body>
 </html>
