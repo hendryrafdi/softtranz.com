@@ -5,7 +5,7 @@
         <title>Software Transformator</title>
         <link rel="stylesheet" type="css/text" href="css/style.css"/>
 		<link rel="stylesheet" type="css/text" href="savecss.css"/>
-        <script src="http://jqueryjs.googlecode.com/files/jquery-1.3.js" type="text/javascript"></script>  
+        <script src="js/jquery-1.3.js" type="text/javascript"></script>  
         <script src="js/jquery.easing.1.3.js" type="text/javascript"></script>  
         <script src="js/animated-menu.js" type="text/javascript"></script>
     </head>
