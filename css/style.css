@@ -3,6 +3,9 @@ html{
     margin-left: -8px;
     margin-top: -10px;
 }
+a{
+    text-decoration: none;
+}
 .header{
     position: fixed;
     background-color: #000;
@@ -11,7 +14,6 @@ html{
     text-align: center;
     width: 100%;
 	z-index:99;
-	font-size:18px;
 }
 .navbar ul{
     list-style:none;
@@ -35,7 +37,7 @@ html{
 }
 
 .navbar p{
-    padding:0px 12px;
+    padding:10px 12px;
 }
 
 .navbar subtext{
