@@ -23,7 +23,7 @@
                         <p><a href="schedule.php">Schedule</a></p>
                     </li>
                     <li class="black">
-                        <p><a href="sharing.php">Sharing</a></p>
+                        <p><a href="#">Sharing</a></p>
                     </li>
                     <li class="black">
                         <p><a href="chatting.php">Chating</a></p>

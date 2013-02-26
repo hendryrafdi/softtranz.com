@@ -21,11 +21,11 @@
                         <p><a href="#">Home</a></p>
                     </li>
                     <li class="black">
-                        <p><a href="#">Member</a></p>
+                        <p><a href="member.php">Member</a></p>
                         <p class="subtext">Get in touch</p>
                     </li>
                     <li class="black">
-                        <p><a href="#">Schedule</a></p>
+                        <p><a href="schedule.php">Schedule</a></p>
                         <p class="subtext">Send us your stuff!</p>
                     </li>
                     <li class="black">
@@ -33,7 +33,7 @@
                         <p class="subtext">Legal things</p>
                     </li>
                     <li class="black">
-                        <p><a href="#">Chating</a></p>
+                        <p><a href="chatting.php">Chating</a></p>
                         <p class="subtext">Legal things</p>
                     </li>
                     <li class="black">

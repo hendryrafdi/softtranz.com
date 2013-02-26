@@ -25,7 +25,7 @@
                         <p class="subtext">Send us your stuff!</p>
                     </li>
                     <li class="black">
-                        <p><a href="sharing.php">Sharing</a></p>
+                        <p><a href="#">Sharing</a></p>
                         <p class="subtext">Legal things</p>
                     </li>
                     <li class="black">
